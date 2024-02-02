@@ -1,0 +1,18 @@
+{
+	"ads": [
+		{
+			"id": "splitext_ios",
+			"link": "itms-apps://itunes.apple.com/app/id1481002340",
+			"localizations": {
+				"en": {
+					"title": "Splitext: Text posts & stories",
+					"action": "Open on the App Store",
+				},
+				"ru": {
+					"title": "Splitext: Текстовые посты",
+					"action": "Открыть в App Store",
+				}
+			}
+		}
+	]
+}
