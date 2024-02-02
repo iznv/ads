@@ -7,10 +7,12 @@
 				"en": {
 					"title": "Splitext: Text posts & stories",
 					"action": "Open on the App Store",
+					"image": "en.png"
 				},
 				"ru": {
 					"title": "Splitext: Текстовые посты",
 					"action": "Открыть в App Store",
+					"image": "ru.png"
 				}
 			}
 		}
