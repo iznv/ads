@@ -15,6 +15,22 @@
 					"image": "ru.png"
 				}
 			}
+		},
+		{
+			"id": "doposler_ios",
+			"link": "itms-apps://itunes.apple.com/app/id1644995915",
+			"localizations": {
+				"en": {
+					"title": "Doposler: Before after video",
+					"action": "Open on the App Store",
+					"image": "en.png"
+				},
+				"ru": {
+					"title": "Doposler: До после видео",
+					"action": "Открыть в App Store",
+					"image": "ru.png"
+				}
+			}
 		}
 	]
 }
