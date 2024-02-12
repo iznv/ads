@@ -1,34 +1,98 @@
 {
 	"ads": [
 		{
-			"id": "splitext_ios",
-			"link": "itms-apps://itunes.apple.com/app/id1481002340",
+			"id": "stickers_bot_sticker_static",
+			"link": "https://t.me/GimmeStickerBot",
 			"localizations": {
 				"en": {
-					"title": "Splitext: Text posts & stories",
-					"action": "Open on the App Store",
-					"image": "en.png"
+					"title": "Telegram Sticker Downloader",
+					"action": "Try",
+					"image": "en_sticker_static.png"
 				},
 				"ru": {
-					"title": "Splitext: Текстовые посты",
-					"action": "Открыть в App Store",
-					"image": "ru.png"
+					"title": "Telegram бот для скачивания стикеров",
+					"action": "Попробовать",
+					"image": "ru_sticker_static.png"
 				}
 			}
 		},
 		{
-			"id": "doposler_ios",
-			"link": "itms-apps://itunes.apple.com/app/id1644995915",
+			"id": "stickers_bot_sticker_video",
+			"link": "https://t.me/GimmeStickerBot",
 			"localizations": {
 				"en": {
-					"title": "Doposler: Before after video",
-					"action": "Open on the App Store",
-					"image": "en.png"
+					"title": "Telegram Sticker Downloader",
+					"action": "Try",
+					"image": "en_sticker_video.png"
 				},
 				"ru": {
-					"title": "Doposler: До после видео",
-					"action": "Открыть в App Store",
-					"image": "ru.png"
+					"title": "Telegram бот для скачивания стикеров",
+					"action": "Попробовать",
+					"image": "ru_sticker_video.png"
+				}
+			}
+		},
+		{
+			"id": "stickers_bot_sticker_animated",
+			"link": "https://t.me/GimmeStickerBot",
+			"localizations": {
+				"en": {
+					"title": "Telegram Sticker Downloader",
+					"action": "Try",
+					"image": "en_sticker_animated.png"
+				},
+				"ru": {
+					"title": "Telegram бот для скачивания стикеров",
+					"action": "Попробовать",
+					"image": "ru_sticker_animated.png"
+				}
+			}
+		},
+		{
+			"id": "stickers_bot_emoji_static",
+			"link": "https://t.me/GimmeStickerBot",
+			"localizations": {
+				"en": {
+					"title": "Telegram Emoji Downloader",
+					"action": "Try",
+					"image": "en_emoji_static.png"
+				},
+				"ru": {
+					"title": "Telegram бот для скачивания эмодзи",
+					"action": "Попробовать",
+					"image": "ru_emoji_static.png"
+				}
+			}
+		},
+		{
+			"id": "stickers_bot_emoji_video",
+			"link": "https://t.me/GimmeStickerBot",
+			"localizations": {
+				"en": {
+					"title": "Telegram Emoji Downloader",
+					"action": "Try",
+					"image": "en_emoji_video.png"
+				},
+				"ru": {
+					"title": "Telegram бот для скачивания эмодзи",
+					"action": "Попробовать",
+					"image": "ru_emoji_video.png"
+				}
+			}
+		},
+		{
+			"id": "stickers_bot_emoji_animated",
+			"link": "https://t.me/GimmeStickerBot",
+			"localizations": {
+				"en": {
+					"title": "Telegram Emoji Downloader",
+					"action": "Try",
+					"image": "en_emoji_animated.png"
+				},
+				"ru": {
+					"title": "Telegram бот для скачивания эмодзи",
+					"action": "Попробовать",
+					"image": "ru_emoji_animated.png"
 				}
 			}
 		}
