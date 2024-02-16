@@ -7,12 +7,12 @@
 				"en": {
 					"title": "Telegram Sticker Downloader",
 					"action": "Try",
-					"image": "en_sticker_static.png"
+					"image": "en_sticker_static.jpg"
 				},
 				"ru": {
 					"title": "Telegram бот для скачивания стикеров",
 					"action": "Попробовать",
-					"image": "ru_sticker_static.png"
+					"image": "ru_sticker_static.jpg"
 				}
 			}
 		},
@@ -23,12 +23,12 @@
 				"en": {
 					"title": "Telegram Sticker Downloader",
 					"action": "Try",
-					"image": "en_sticker_video.png"
+					"image": "en_sticker_video.jpg"
 				},
 				"ru": {
 					"title": "Telegram бот для скачивания стикеров",
 					"action": "Попробовать",
-					"image": "ru_sticker_video.png"
+					"image": "ru_sticker_video.jpg"
 				}
 			}
 		},
@@ -39,12 +39,12 @@
 				"en": {
 					"title": "Telegram Sticker Downloader",
 					"action": "Try",
-					"image": "en_sticker_animated.png"
+					"image": "en_sticker_animated.jpg"
 				},
 				"ru": {
 					"title": "Telegram бот для скачивания стикеров",
 					"action": "Попробовать",
-					"image": "ru_sticker_animated.png"
+					"image": "ru_sticker_animated.jpg"
 				}
 			}
 		},
@@ -55,12 +55,12 @@
 				"en": {
 					"title": "Telegram Emoji Downloader",
 					"action": "Try",
-					"image": "en_emoji_static.png"
+					"image": "en_emoji_static.jpg"
 				},
 				"ru": {
 					"title": "Telegram бот для скачивания эмодзи",
 					"action": "Попробовать",
-					"image": "ru_emoji_static.png"
+					"image": "ru_emoji_static.jpg"
 				}
 			}
 		},
@@ -71,12 +71,12 @@
 				"en": {
 					"title": "Telegram Emoji Downloader",
 					"action": "Try",
-					"image": "en_emoji_video.png"
+					"image": "en_emoji_video.jpg"
 				},
 				"ru": {
 					"title": "Telegram бот для скачивания эмодзи",
 					"action": "Попробовать",
-					"image": "ru_emoji_video.png"
+					"image": "ru_emoji_video.jpg"
 				}
 			}
 		},
@@ -87,12 +87,12 @@
 				"en": {
 					"title": "Telegram Emoji Downloader",
 					"action": "Try",
-					"image": "en_emoji_animated.png"
+					"image": "en_emoji_animated.jpg"
 				},
 				"ru": {
 					"title": "Telegram бот для скачивания эмодзи",
 					"action": "Попробовать",
-					"image": "ru_emoji_animated.png"
+					"image": "ru_emoji_animated.jpg"
 				}
 			}
 		}
