@@ -1,98 +1,18 @@
 {
 	"ads": [
 		{
-			"id": "stickers_bot_sticker_static",
-			"link": "https://t.me/GimmeStickerBot",
+			"id": "splitext_ios",
+			"link": "itms-apps://itunes.apple.com/app/id1481002340",
 			"localizations": {
 				"en": {
-					"title": "Telegram Sticker Downloader",
-					"action": "Try",
-					"image": "en_sticker_static.jpg"
+					"title": "Splitext: Text posts & stories",
+					"action": "Open on the App Store",
+					"image": "en.png"
 				},
 				"ru": {
-					"title": "Telegram бот для скачивания стикеров",
-					"action": "Попробовать",
-					"image": "ru_sticker_static.jpg"
-				}
-			}
-		},
-		{
-			"id": "stickers_bot_sticker_video",
-			"link": "https://t.me/GimmeStickerBot",
-			"localizations": {
-				"en": {
-					"title": "Telegram Sticker Downloader",
-					"action": "Try",
-					"image": "en_sticker_video.jpg"
-				},
-				"ru": {
-					"title": "Telegram бот для скачивания стикеров",
-					"action": "Попробовать",
-					"image": "ru_sticker_video.jpg"
-				}
-			}
-		},
-		{
-			"id": "stickers_bot_sticker_animated",
-			"link": "https://t.me/GimmeStickerBot",
-			"localizations": {
-				"en": {
-					"title": "Telegram Sticker Downloader",
-					"action": "Try",
-					"image": "en_sticker_animated.jpg"
-				},
-				"ru": {
-					"title": "Telegram бот для скачивания стикеров",
-					"action": "Попробовать",
-					"image": "ru_sticker_animated.jpg"
-				}
-			}
-		},
-		{
-			"id": "stickers_bot_emoji_static",
-			"link": "https://t.me/GimmeStickerBot",
-			"localizations": {
-				"en": {
-					"title": "Telegram Emoji Downloader",
-					"action": "Try",
-					"image": "en_emoji_static.jpg"
-				},
-				"ru": {
-					"title": "Telegram бот для скачивания эмодзи",
-					"action": "Попробовать",
-					"image": "ru_emoji_static.jpg"
-				}
-			}
-		},
-		{
-			"id": "stickers_bot_emoji_video",
-			"link": "https://t.me/GimmeStickerBot",
-			"localizations": {
-				"en": {
-					"title": "Telegram Emoji Downloader",
-					"action": "Try",
-					"image": "en_emoji_video.jpg"
-				},
-				"ru": {
-					"title": "Telegram бот для скачивания эмодзи",
-					"action": "Попробовать",
-					"image": "ru_emoji_video.jpg"
-				}
-			}
-		},
-		{
-			"id": "stickers_bot_emoji_animated",
-			"link": "https://t.me/GimmeStickerBot",
-			"localizations": {
-				"en": {
-					"title": "Telegram Emoji Downloader",
-					"action": "Try",
-					"image": "en_emoji_animated.jpg"
-				},
-				"ru": {
-					"title": "Telegram бот для скачивания эмодзи",
-					"action": "Попробовать",
-					"image": "ru_emoji_animated.jpg"
+					"title": "Splitext: Текстовые посты",
+					"action": "Открыть в App Store",
+					"image": "ru.png"
 				}
 			}
 		},
